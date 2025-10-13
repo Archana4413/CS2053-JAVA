@@ -20,7 +20,7 @@ class BankAccount {
     }
 }
 
-public class LAB6 {
+public class LabSession6.java {
     public static void main(String[] args) {
         BankAccount account = new BankAccount(5000);
 
@@ -31,3 +31,4 @@ public class LAB6 {
         }
     }
 }
+
