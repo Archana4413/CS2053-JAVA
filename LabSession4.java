@@ -52,7 +52,7 @@ class CurrentAccount extends Account {
     }
 }
 
-public class LAB4 {
+public class LabSession4.java {
     public static void main(String[] args) {
         Account a1 = new SavingsAccount("S001", 5000, 5);
         Account a2 = new CurrentAccount("C001", 2000, 1000);
@@ -66,3 +66,4 @@ public class LAB4 {
         a2.displayBalance();
     }
 }
+
