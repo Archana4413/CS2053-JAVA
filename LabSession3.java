@@ -32,9 +32,10 @@ class ElectricCar extends Car {
     }
 }
 
-public class Lab3 {
+public class LabSession3.java{
     public static void main(String[] args) {
         ElectricCar e = new ElectricCar("Tesla", "Model S", 100);
         e.display();
     }
 }
+
